@@ -1,0 +1,1 @@
+docker run --name logstash --restart=always -v /path/to/logs:/logs -d logstash:tag
